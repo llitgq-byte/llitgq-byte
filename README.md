@@ -1,26 +1,26 @@
-## Hi there \u{1F44B}, I'm **Shan Ding**
+## Hi there 👋, I'm **Shan Ding**
 
 <img align="right" src="https://komarev.com/ghpvc/?username=llitgq-byte&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 
-Java / Frontend / ETL veteran turned **AI Agent Wrangler** \u{1F916}
+Java / Frontend / ETL veteran turned **AI Agent Wrangler** 🤖
 
-Currently "retired" and looking for my next **Full-Stack Developer** gig \u{1F680}
+Currently "retired" and looking for my next **Full-Stack Developer** gig 🚀
 
-If you need someone who can code and make AI do the boring stuff \u2014 let's talk \u{1F4AC}
-
----
-
-### \u{1F525} About Me
-
-- \u{1F52E} I'm currently exploring **AI-powered automation** and building agents with [Hermes Agent](https://github.com/nousresearch/hermes-agent)
-- \u{1F331} Currently learning **LLM orchestration**, **tool-use patterns**, and **multi-agent systems**
-- \u{1F4AC} Ask me about **Java**, **React**, **ETL pipelines**, or **making AI do your laundry**
-- \u{26A1} Fun fact: I once automated an entire data pipeline and nobody noticed until it broke
-- \u{1F3AF} **Open to FDE opportunities** \u2014 [Email me](mailto:llitgq@gmail.com) if you have something interesting
+If you need someone who can code and make AI do the boring stuff — let's talk 💬
 
 ---
 
-### \u{1F6E0}\u{FE0F} Tech Stack
+### 🔥 About Me
+
+- 🔭 I'm currently exploring **AI-powered automation** and building agents with [Hermes Agent](https://github.com/nousresearch/hermes-agent)
+- 🌱 Currently learning **LLM orchestration**, **tool-use patterns**, and **multi-agent systems**
+- 💬 Ask me about **Java**, **React**, **ETL pipelines**, or **making AI do your laundry**
+- ⚡ Fun fact: I once automated an entire data pipeline and nobody noticed until it broke
+- 🎯 **Open to FDE opportunities** — [Email me](mailto:llitgq@gmail.com) if you have something interesting
+
+---
+
+### 🛠️ Tech Stack
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,7 +43,7 @@ If you need someone who can code and make AI do the boring stuff \u2014 let's ta
 
 ---
 
-### \u{1F4CA} GitHub Stats
+### 📊 GitHub Stats
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=llitgq-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=C792EA&text_color=8B949E" />
@@ -57,7 +57,7 @@ If you need someone who can code and make AI do the boring stuff \u2014 let's ta
 
 ---
 
-### \u{1F4EB} Find Me Online
+### 📫 Find Me Online
 
 [![Email](https://img.shields.io/badge/Email-llitgq%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llitgq@gmail.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-43323541-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/43323541)
@@ -69,6 +69,6 @@ If you need someone who can code and make AI do the boring stuff \u2014 let's ta
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%" />
 
 <p align="center">
-  <em>Built with \u{2764}\u{FE0F} and way too much \u{2615} by <strong>Shan Ding</strong></em><br>
-  <sub>Powered by <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> \u2014 my AI sidekick</sub>
+  <em>Built with ❤️ and way too much ☕ by <strong>Shan Ding</strong></em><br>
+  <sub>Powered by <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> — my AI sidekick</sub>
 </p>
