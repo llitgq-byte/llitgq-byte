@@ -1,29 +1,74 @@
-# Hi there I'm Shan Ding
+## Hi there \u{1F44B}, I'm **Shan Ding**
 
-## About Me
+<img align="right" src="https://komarev.com/ghpvc/?username=llitgq-byte&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 
-Java/Frontend/ETL vet turned AI agent wrangler. Currently retired and looking for my next FDE gig.
+Java / Frontend / ETL veteran turned **AI Agent Wrangler** \u{1F916}
 
-## Technologies and Tools
+Currently "retired" and looking for my next **Full-Stack Developer** gig \u{1F680}
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=llitgq-byte&show_icons=true&theme=dark)](https://github.com/llitgq-byte)
-
-## Connect with Me
-
-- Email: llitgq@gmail.com
-- Bilibili: @llitgq
+If you need someone who can code and make AI do the boring stuff \u2014 let's talk \u{1F4AC}
 
 ---
 
-This profile is maintained with the help of Hermes Agent.
+### \u{1F525} About Me
+
+- \u{1F52E} I'm currently exploring **AI-powered automation** and building agents with [Hermes Agent](https://github.com/nousresearch/hermes-agent)
+- \u{1F331} Currently learning **LLM orchestration**, **tool-use patterns**, and **multi-agent systems**
+- \u{1F4AC} Ask me about **Java**, **React**, **ETL pipelines**, or **making AI do your laundry**
+- \u{26A1} Fun fact: I once automated an entire data pipeline and nobody noticed until it broke
+- \u{1F3AF} **Open to FDE opportunities** \u2014 [Email me](mailto:llitgq@gmail.com) if you have something interesting
+
+---
+
+### \u{1F6E0}\u{FE0F} Tech Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+### \u{1F4CA} GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=llitgq-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=C792EA&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llitgq-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+</p>
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=llitgq-byte&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=C792EA&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=llitgq-byte&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
+</p>
+
+---
+
+### \u{1F4EB} Find Me Online
+
+[![Email](https://img.shields.io/badge/Email-llitgq%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llitgq@gmail.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-43323541-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/43323541)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-Profile-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/62b32ecc000000001b02aa61)
+[![Douyin](https://img.shields.io/badge/Douyin-Profile-161823?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAM2aAdRIPsSQf1GzdGk2zziIxMEIOwEROOl6II50v1bb9v4Ozm-zITeDJCW7NPu-M)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100%" />
+
+<p align="center">
+  <em>Built with \u{2764}\u{FE0F} and way too much \u{2615} by <strong>Shan Ding</strong></em><br>
+  <sub>Powered by <a href="https://github.com/nousresearch/hermes-agent">Hermes Agent</a> \u2014 my AI sidekick</sub>
+</p>
